@@ -1,0 +1,17 @@
+/**
+UPTx - Fundamentos de Programaci¢n Orientada a Objetos
+Practica 1
+Grupo 5H
+Objetivo: Mostrar enlace de bienvenida
+*/
+public class Main {
+    public static void main(String[] args) {
+        
+        System.out.println("\nHola mundo");
+        System.out.println("\nFundamentos POO");
+        System.out.println("\nLizbet Delgado Tehozol");
+    }
+}
+^Z
+
+
